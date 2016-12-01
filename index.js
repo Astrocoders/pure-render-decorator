@@ -5,7 +5,7 @@
 'use strict';
 
 var warning = require('fbjs/lib/warning');
-var shallowEqual = require('fbjs/lib/shallowEqual');
+var shallowEqual = require('react-addons-shallow-compare');
 
 
 
